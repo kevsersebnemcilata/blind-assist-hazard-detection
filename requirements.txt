@@ -1,0 +1,8 @@
+opencv-python>=4.8.0
+numpy>=1.21.0
+torch>=2.0.0
+torchvision>=0.15.0
+matplotlib>=3.5.0
+ultralytics>=8.0.0
+pyttsx3>=2.90
+flask>=3.0.0
