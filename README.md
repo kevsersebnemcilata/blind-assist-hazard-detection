@@ -73,8 +73,8 @@ matplotlib >= 3.5.0
 
 ```bash
 # 1. Repoyu klonla
-git clone https://github.com/neslihankaradenizz/Bitirme-Projesi.git
-cd Bitirme-Projesi
+git clone https://github.com/kevsersebnemcilata/blind-assist-hazard-detection.git
+cd blind-assist-hazard-detection
 
 # 2. Sanal ortam oluştur (önerilir)
 python -m venv venv
